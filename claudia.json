@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "cmi2-quotes-executor",
+    "name": "cmi2-quotes",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "4pu1259y54",
+    "module": "bin/index"
+  }
+}
